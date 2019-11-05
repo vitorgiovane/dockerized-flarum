@@ -6,14 +6,14 @@
 /.env
 
 /docker/mysql/data
-/storage/cache
-/storage/formatter
-/storage/less
-/storage/locale
-/storage/logs
-/storage/sessions
-/storage/tmp
-/storage/views
+/storage/cache/*
+/storage/formatter/*
+/storage/less/*
+/storage/locale/*
+/storage/logs/*
+/storage/sessions/*
+/storage/tmp/*
+/storage/views/*
 /vendor
 
 !/**/.gitkeep
