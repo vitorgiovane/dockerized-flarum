@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.env.example
+.env.ready
+.history
+.git
+.gitignore
+docker
+docker-compose.yml
